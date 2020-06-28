@@ -8,7 +8,7 @@ spring:
   application:
     name: usian-item-web22
   rabbitmq:
-    host: 192.168.233.132
+    host: 192.168.3.128
     username: admin
     password: 1111
     virtual-host: /
