@@ -7,6 +7,11 @@ eureka:
 spring:
   application:
     name: usian-item-web22
+  rabbitmq:
+    host: 192.168.233.132
+    username: admin
+    password: 1111
+    virtual-host: /
 fdfs:
   so-timeout: 1501 # 超时时间
   connect-timeout: 601 # 连接超时时间
